@@ -1,0 +1,26 @@
+h1{
+    margin:60px;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+button {
+    background-color: black;
+    padding: 10px 20px;
+    border-color: white;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+}
+
+form{
+    text-align: center;
+}
+label {
+    font-size: 30px;
+    text-align: center;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+
+}
